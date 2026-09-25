@@ -1,6 +1,6 @@
 # CiscoPacketTracer - Smart Home Automation
 Data Communication and Computer Networks Project on smart home automation with Cisco Packet Tracer
-<img src="C:\Users\pc\Downloads\Automating engines pic.gif"></img>
+<img src="./images/Automating%20engines%20pic.gif" alt="Smart Home Automation">
 ## Automating the smart home via network wifi.
 - One can control & protect his home from intruder & sudden happenings such as fire etc.
 - Control IoT devices remotely and smoothly
